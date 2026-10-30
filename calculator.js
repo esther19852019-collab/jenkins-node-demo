@@ -1,5 +1,5 @@
 function add(a, b) {
-  return a - b;//make a mistake
+  return a + b;//After making a mistake, correct!
 }
 
 function multiply(a, b) {
